@@ -1,2 +1,1 @@
-# arvinds97.github.io
-My personal website/portfolio
+# Simple Demo (without project photos)
